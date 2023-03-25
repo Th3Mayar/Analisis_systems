@@ -3,9 +3,10 @@
 
 ---
 
-+ ![Juego de git learn para aprender comandos de git](https://github.com/Th3Mayar/GitLearnGame)
-+ ![Proyecto de CRUD dbExportacion (REST-API)](https://github.com/Th3Mayar/api_frustsworld)
-
+<ul>
+  <li><a href="https://github.com/Th3Mayar/GitLearnGame">Juego de git learn para aprender comandos de git</a></li>
+  <li><a href="https://github.com/Th3Mayar/api_frustsworld">Proyecto de CRUD dbExportacion (REST-API)</a></li>
+</ul>
 ---
 
 + Create by:
