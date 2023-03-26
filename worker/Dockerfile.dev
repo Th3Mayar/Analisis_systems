@@ -1,7 +1,0 @@
-FROM node:alpine
-WORKDIR "/app"
-COPY ./package.json ./
-RUN npm install nodemon
-RUN npm install -g npm@9.6.2
-COPY . .
-CMD ["npm", "run", "dev"]
